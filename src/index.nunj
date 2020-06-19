@@ -1,0 +1,10 @@
+{% extends 'common/layout.nunj' %}
+
+{% block head %}
+    <meta http-equiv="refresh" content="1;URL=./views/home.html">
+{% endblock %}
+
+{% block title %}
+    Page Title
+{% endblock %}
+

@@ -1,0 +1,14 @@
+{% extends 'common/layout.nunj' %}
+
+{% block title %}
+    Page Title
+{% endblock %}
+
+
+{% block content %}
+    RANDOM CONTENT
+{% endblock %}
+
+{% block extra_scripts %}
+    <!-- inject:assets/js/home.js --><!-- endinject -->
+{% endblock %}
